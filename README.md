@@ -3,7 +3,7 @@ The PCB of the gift electronic cup.
 
 Technical specifications:
 
-- Input power supply 5V from USB or from li-on batteries.
+- Input power supply 5V from USB or from batteries.
 - LED matrix controlling through an SPI interface.
 - LCD-display.
 - 9 RGB leds WS2812.
