@@ -1,9 +1,11 @@
 # CupRTCGift
-Печатная плата для подарочного сувенирного изделия победителям соревнований Кубок РТК.
+The PCB of the gift electronic cup.
 
-Функционал изделия:
+Technical specifications:
 
-- вывод информации на светодиодную матрицу с помощью SPI интерфейса;
+- Input voltage range of 12 V to 75 V.
+- Up to 9A of output current.
+- LED matrix controlling through an SPI interface.
 - вывод информации на LCD дисплей;
 - управление 9ью RGB светодиодами;
 - загрузка hex кода мелодии через UART;
