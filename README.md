@@ -7,11 +7,11 @@ Technical specifications:
 - LED matrix controlling through an SPI interface.
 - LCD-display.
 - 9 RGB leds WS2812.
-- downloding hex audio file through UART interface;
+- Downloding hex audio file through UART interface;
 - Main MCU STM32F103C8RT6.
-- external EEPROM 256 Kbit M95256 with an SPI interface.
+- External EEPROM 256 Kbit M95256 with an SPI interface.
 - 12 bit DAC MCP4921.
-- audio amplifier LM386M.
+- Audio amplifier LM386M.
 
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/CupGift.jpg)
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/Cup1.PNG)
